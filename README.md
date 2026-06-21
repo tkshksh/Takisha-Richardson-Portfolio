@@ -2,7 +2,7 @@
 <tr>
 <td width="220">
 
-<img src="[https://raw.githubusercontent.com/tkshksh/Images/main/Projects/github_image.jpg]"
+<img src="[https://raw.githubusercontent.com/tkshksh/Projects/main/Projects/github_image.jpg]"
      alt="Takisha Richardson"
      width="200"/>
 
