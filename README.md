@@ -14,7 +14,7 @@ I enjoy working with data to identify trends, solve business problems, and commu
 * **Data Analysis Tools:** Excel, Power Query, Pivot Tables
 * **Data Visualization:** Tableau, Power BI, Visio
 * **Database Management:** SQL Server, MySQL, Oracle
-* **Cloud Platforms:** AWS (Amazon Web Services)
+* **Cloud Platform:** AWS (Amazon Web Services)
 * **Version Control:** Git, GitHub
 * **Other Tools:** Microsoft Office Suite
 
