@@ -17,11 +17,8 @@ Data Analyst skilled in SQL, Python, Excel, and data visualization. Passionate a
 </tr>
 </table>
 
-This keeps your photo on the left and your introduction aligned on the right.
 
 ## Professional Bio
-
-Data Analyst skilled in SQL, Python, Excel, and data visualization. Passionate about transforming data into actionable insights and supporting data-driven decision-making through data analysis, reporting, and business intelligence solutions.
 
 ## About Me
 
