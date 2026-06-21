@@ -17,9 +17,6 @@ Data Analyst skilled in SQL, Python, Excel, and data visualization. Passionate a
 </tr>
 </table>
 
-
-## Professional Bio
-
 ## About Me
 
 I enjoy working with data to identify trends, solve business problems, and communicate findings through clear visualizations and reports. My experience includes data cleaning, exploratory data analysis, dashboard development, and database querying. I am continuously expanding my skills in analytics, automation, and data storytelling.
