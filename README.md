@@ -2,7 +2,7 @@
 <tr>
 <td width="220">
 
-<img src="images/github_image.jpg" alt="Takisha Richardson" width="400"/>
+<img src="images/github_image.jpg" alt="Takisha Richardson" width="200"/>
 
 </td>
 <td>
