@@ -2,10 +2,18 @@
 <tr>
 <td width="220">
 
-<img src="images/bithub_image.jpg" alt="Takisha Richardson" width="200"/>
+<img src="images/github_image.jpg" alt="Takisha Richardson" width="200"/>
 
 </td>
+<td>
 
+<h1>Takisha-Richardson-Portfolio</h1>
+
+<p>
+Data Analyst skilled in SQL, Python, Excel, and data visualization. Passionate about transforming data into actionable insights and supporting data-driven decision-making through data analysis, reporting, and business intelligence solutions.
+</p>
+
+</td>
 </tr>
 </table>
 
