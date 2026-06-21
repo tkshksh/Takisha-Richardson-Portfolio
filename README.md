@@ -18,7 +18,6 @@ Data Analyst skilled in SQL, Python, Excel, and data visualization. Passionate a
 </table>
 
 This keeps your photo on the left and your introduction aligned on the right.
-# Takisha-Richardson-Portfolio
 
 ## Professional Bio
 
