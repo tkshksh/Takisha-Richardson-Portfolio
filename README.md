@@ -32,3 +32,17 @@ I enjoy working with data to identify trends, solve business problems, and commu
 * **Cloud Platform:** AWS (Amazon Web Services)
 * **Version Control:** Git, GitHub
 * **Other Tools:** Microsoft Office Suite
+<p align="center">
+  <img src="assets/logo.png" alt="OpenMontage" width="200">
+</p>
+
+<h1 align="center">Example Work</h1>
+
+<p align="center"><strong>The first open-source - </strong></p>
+<p align="center">
+  <a href="#start-from-a-video-you-already-love">Paste A Video</a> &nbsp;·&nbsp;
+  <a href="#pipelines">Pipelines</a> &nbsp;·&nbsp;
+  <a href="#how-it-works">How It Works</a> &nbsp;·&nbsp;
+  <a href="docs/PR_REVIEW_GUIDE.md">Review Guide</a> &nbsp;·&nbsp;
+  <a href="AGENT_GUIDE.md">Agent Guide</a>
+</p>
