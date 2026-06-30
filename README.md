@@ -5,7 +5,10 @@
 <img src="https://raw.githubusercontent.com/tkshksh/Images/main/github_image.jpg"
      alt="Takisha Richardson"
      width="200"/>
-
+     
+<p align="center">
+  <img src="assets/logo.png" alt="OpenMontage" width="200">
+</p>
 </td>
 <td>
 
@@ -32,9 +35,6 @@ I enjoy working with data to identify trends, solve business problems, and commu
 * **Cloud Platform:** AWS (Amazon Web Services)
 * **Version Control:** Git, GitHub
 * **Other Tools:** Microsoft Office Suite
-<p align="center">
-  <img src="assets/logo.png" alt="OpenMontage" width="200">
-</p>
 
 <h1 align="center">Example Work</h1>
 
