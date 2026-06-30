@@ -39,7 +39,7 @@ I enjoy working with data to identify trends, solve business problems, and commu
 <h1 align="center">Example Work</h1>
 
 <p align=""><strong>The first open-source - </strong></p>
-<p align="">
+<p align="center">
   <a href="#">Paste A Video</a> &nbsp;·&nbsp;
   <a href="#">Pipelines</a> &nbsp;·&nbsp;
   <a href="#">How It Works</a> &nbsp;·&nbsp;
